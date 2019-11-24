@@ -12,4 +12,4 @@ I. Các chức năng chính:
 	- Trường Username cần phải nhập đúng định dạng (bao gồm cả chữ và số)
 	- Trường email cần phải nhập đúng định dạng (abc@example.abc)
 	- Trường password và repeat password phải trùng nhau
-
+3. Lưu đăng nhập
